@@ -1,0 +1,6 @@
+{
+  "description": "Suggest clear names for a variable, function or class.",
+  "name": "mos-e2e-naming-helper",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

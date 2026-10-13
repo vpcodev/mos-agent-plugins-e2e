@@ -1,0 +1,6 @@
+{
+  "description": "Write a one-paragraph TL;DR of a long text.",
+  "name": "mos-e2e-summary-tldr",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

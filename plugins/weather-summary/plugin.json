@@ -1,0 +1,6 @@
+{
+  "description": "Summarize a weather forecast into a short, friendly paragraph.",
+  "name": "mos-e2e-weather-summary",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

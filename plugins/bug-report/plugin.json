@@ -1,0 +1,6 @@
+{
+  "description": "Structure a bug report from a rough description.",
+  "name": "mos-e2e-bug-report",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

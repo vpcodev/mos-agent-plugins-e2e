@@ -1,0 +1,6 @@
+{
+  "description": "Summarize what to check before updating a dependency.",
+  "name": "mos-e2e-dependency-update",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

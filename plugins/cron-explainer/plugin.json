@@ -1,0 +1,6 @@
+{
+  "description": "Explain a cron expression in plain language.",
+  "name": "mos-e2e-cron-explainer",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

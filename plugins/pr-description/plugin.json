@@ -1,0 +1,6 @@
+{
+  "description": "Draft a pull request description from a list of changes.",
+  "name": "mos-e2e-pr-description",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

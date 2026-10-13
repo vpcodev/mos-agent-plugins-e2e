@@ -1,0 +1,6 @@
+{
+  "description": "Rewrite an error message so users know what to do next.",
+  "name": "mos-e2e-error-message",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

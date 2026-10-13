@@ -1,0 +1,6 @@
+{
+  "description": "Build and explain a regular expression for a described pattern.",
+  "name": "mos-e2e-regex-helper",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

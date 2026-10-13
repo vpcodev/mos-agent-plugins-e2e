@@ -1,0 +1,6 @@
+{
+  "description": "Suggest accessibility improvements for a described UI.",
+  "name": "mos-e2e-accessibility-tips",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

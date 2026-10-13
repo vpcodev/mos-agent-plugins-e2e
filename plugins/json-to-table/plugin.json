@@ -1,0 +1,6 @@
+{
+  "description": "Convert a small JSON array into a Markdown table.",
+  "name": "mos-e2e-json-to-table",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

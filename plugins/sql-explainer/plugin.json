@@ -1,0 +1,6 @@
+{
+  "description": "Explain what a SQL query does in plain language.",
+  "name": "mos-e2e-sql-explainer",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

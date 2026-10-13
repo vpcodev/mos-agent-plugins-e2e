@@ -1,0 +1,6 @@
+{
+  "description": "Turn raw meeting notes into a clear summary with action items.",
+  "name": "mos-e2e-meeting-notes",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

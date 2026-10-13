@@ -1,0 +1,6 @@
+{
+  "description": "Check a short translation for meaning and tone.",
+  "name": "mos-e2e-translation-check",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

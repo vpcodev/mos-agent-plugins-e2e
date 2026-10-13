@@ -1,0 +1,6 @@
+{
+  "description": "Write an FAQ from a feature description.",
+  "name": "mos-e2e-faq-writer",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

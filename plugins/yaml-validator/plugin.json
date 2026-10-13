@@ -1,0 +1,6 @@
+{
+  "description": "Point out common mistakes in a YAML snippet.",
+  "name": "mos-e2e-yaml-validator",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

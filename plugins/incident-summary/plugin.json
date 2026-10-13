@@ -1,0 +1,6 @@
+{
+  "description": "Write a short incident summary for stakeholders.",
+  "name": "mos-e2e-incident-summary",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

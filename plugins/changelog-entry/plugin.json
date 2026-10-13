@@ -1,0 +1,6 @@
+{
+  "description": "Write a single changelog entry for a change.",
+  "name": "mos-e2e-changelog-entry",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

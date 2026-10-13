@@ -1,0 +1,6 @@
+{
+  "description": "Suggest unit test cases for a described function.",
+  "name": "mos-e2e-unit-test-ideas",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}

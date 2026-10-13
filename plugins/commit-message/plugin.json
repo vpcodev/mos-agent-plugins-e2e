@@ -1,0 +1,6 @@
+{
+  "description": "Write a conventional commit message from a description of a change.",
+  "name": "mos-e2e-commit-message",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "version": "1.0.0"
+}
